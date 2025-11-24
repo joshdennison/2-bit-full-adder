@@ -1,5 +1,5 @@
 # 2-bit-full-adder
-In this project, I built a 2-bit full adder using only discrete components, without any logic ICs.
+In this project, I built a 2-bit full adder in Tinkercad using only discrete components, without any logic ICs.
 The circuit implements the required logic functions (XOR, AND, OR) using a total of 22 NPN transistors, demonstrating how digital computation can be constructed at the transistor level.
 
 The adder takes two 2-bit binary inputs and produces:
